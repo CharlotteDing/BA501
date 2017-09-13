@@ -1,1 +1,1 @@
-# BA501
+## Assignments for course BA501
